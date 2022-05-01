@@ -1,4 +1,5 @@
 import math
+
 A, B = map(float, input().split())
 
 unit = 1 / math.sqrt(A ** 2 + B ** 2)
